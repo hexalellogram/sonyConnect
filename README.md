@@ -1,5 +1,5 @@
 # sonyConnect
-Script to connect my Sony WH-900N headphones to my Linux desktop via Bluetooth. May work for other Bluetooth audio devices as well. Tseted with Manjaro Linux 18.0.4.
+Script to connect my Sony WH-H900N headphones to my Linux desktop via Bluetooth. May work for other Bluetooth audio devices as well. Tseted with Manjaro Linux 18.0.4.
 
 Dependencies
 - `expect` - install from your distribution's repositories
